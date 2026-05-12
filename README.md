@@ -1,3 +1,35 @@
+<div align="center">
+
+# 🕸️ WireGuard Mesh Appliance
+
+### Open-source WireGuard mesh network manager — self-hosted alternative to Tailscale, Headscale, Netbird
+
+**Production-grade WireGuard mesh orchestration. Go + PostgreSQL + React. Designed for organizations who need Tailscale-level UX but want self-hosted control of their network.**
+
+[![Network Security](https://img.shields.io/badge/Network%20Security-Mesh%20VPN-1F4FD8?style=for-the-badge)](https://www.networkershome.com/best-network-security-course-in-bangalore/)
+[![Cybersecurity](https://img.shields.io/badge/Cybersecurity-ZTNA-FF0040?style=for-the-badge)](https://www.networkershome.com/best-cybersecurity-course-in-bangalore/)
+[![License: Apache 2.0](https://img.shields.io/badge/License-Apache%202.0-green?style=for-the-badge)](LICENSE)
+[![Built by Networkers Home](https://img.shields.io/badge/Built%20by-Networkers%20Home-000000?style=for-the-badge)](https://www.networkershome.com/)
+
+</div>
+
+---
+
+## 🏛️ Built by Networkers Home
+
+The WireGuard Mesh Appliance was built by **[Networkers Home](https://www.networkershome.com/)** — India's leading Cisco + cybersecurity training institute (Bengaluru, since 2005). It's a free open-source companion to our [Network Security](https://www.networkershome.com/best-network-security-course-in-bangalore/) and [Cybersecurity Pro](https://www.networkershome.com/best-cybersecurity-course-in-bangalore/) programs — built for students learning **modern zero-trust mesh networking** without locking into a paid Tailscale or Cloudflare WARP tenant.
+
+> Tailscale teaches you Tailscale. **Networkers Home teaches you the underlying WireGuard mesh architecture that all modern ZTNA platforms are built on.** This appliance is the reference implementation our students inspect, modify, and deploy in their final-project capstones.
+> [Book a demo class →](https://www.networkershome.com/networkers-home-demo-class/)
+
+**Compare top cybersecurity + network security institutes:**
+[Top 10 Network Security Bangalore](https://www.networkershome.com/top-10-network-security-training-institutes-bangalore-2026/) · [Top 10 Cybersecurity India](https://www.networkershome.com/top-10-cybersecurity-training-institutes-india-2026/) · [Top 10 Cloud Security India](https://www.networkershome.com/top-10-cloud-security-training-institutes-india-2026/)
+
+**Sibling Networkers Home open-source projects:**
+[Secure Tunnel Appliance](https://github.com/NETWORKERS-HOME-123/secure-tunnel-appliance) · [QuickFW Firewall](https://github.com/NETWORKERS-HOME-123/quickfw-firewall-appliance) · [QuickLogs SIEM](https://github.com/NETWORKERS-HOME-123/quicklogs)
+
+---
+
 # Simple Mesh Appliance
 
 > Self-hosted WireGuard mesh network manager — Go + PostgreSQL + React on a single $12/mo server.
